@@ -1,0 +1,24 @@
+whale/CMakeFiles/whale.dir/src/dbi/arm64/decoder_arm64.cc.o: \
+  /sdcard/APKKiller/app/src/main/cpp/whale/src/dbi/arm64/decoder_arm64.cc \
+  /sdcard/APKKiller/app/src/main/cpp/whale/src/dbi/arm64/decoder_arm64.h \
+  /sdcard/APKKiller/app/src/main/cpp/whale/src/base/primitive_types.h \
+  /data/data/com.termux/files/usr/include/c++/v1/cstdint \
+  /data/data/com.termux/files/usr/include/c++/v1/__config \
+  /data/data/com.termux/files/usr/include/features.h \
+  /data/data/com.termux/files/usr/include/sys/cdefs.h \
+  /data/data/com.termux/files/usr/include/android/versioning.h \
+  /data/data/com.termux/files/usr/include/android/api-level.h \
+  /data/data/com.termux/files/usr/include/bits/get_device_api_level_inlines.h \
+  /data/data/com.termux/files/usr/include/android/ndk-version.h \
+  /data/data/com.termux/files/usr/include/pthread.h \
+  /data/data/com.termux/files/usr/include/c++/v1/stdint.h \
+  /data/data/com.termux/files/usr/lib/clang/14.0.3/include/stdint.h \
+  /data/data/com.termux/files/usr/include/stdint.h \
+  /data/data/com.termux/files/usr/include/bits/wchar_limits.h \
+  /data/data/com.termux/files/usr/include/c++/v1/stddef.h \
+  /data/data/com.termux/files/usr/lib/clang/14.0.3/include/stddef.h \
+  /data/data/com.termux/files/usr/lib/clang/14.0.3/include/__stddef_max_align_t.h \
+  /data/data/com.termux/files/usr/include/c++/v1/__nullptr \
+  /data/data/com.termux/files/usr/include/c++/v1/cstddef \
+  /data/data/com.termux/files/usr/include/c++/v1/version \
+  /sdcard/APKKiller/app/src/main/cpp/whale/src/base/macros.h
